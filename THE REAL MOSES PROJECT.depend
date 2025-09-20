@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1690401847 source:c:\users\famiyeh\desktop\famiyeh michael(sri.41.008.084.22)\the real moses project\src\room.cpp
+	"room.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+	<ctime>
+
+1690401857 c:\users\famiyeh\desktop\famiyeh michael(sri.41.008.084.22)\the real moses project\include\room.h
+
+1690402884 source:c:\users\famiyeh\desktop\famiyeh michael(sri.41.008.084.22)\the real moses project\src\customer.cpp
+	"customer.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+	<ctime>
+
+1690401857 c:\users\famiyeh\desktop\famiyeh michael(sri.41.008.084.22)\the real moses project\include\customer.h
+	<string>
+
+1690403479 source:c:\users\famiyeh\desktop\famiyeh michael(sri.41.008.084.22)\the real moses project\src\hotel.cpp
+	"hotel.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+	<ctime>
+
+1690401857 c:\users\famiyeh\desktop\famiyeh michael(sri.41.008.084.22)\the real moses project\include\hotel.h
+	"customer.h"
+	"room.h"
+
+1690403785 source:c:\users\famiyeh\desktop\famiyeh michael(sri.41.008.084.22)\the real moses project\main.cpp
+	<iostream>
+	<string.h>
+	<iomanip>
+	<ctime>
+	"customer.h"
+	"room.h"
+	"hotel.h"
+
+1690739455 source:c:\users\famiyeh\desktop\downloads\famiyeh michael(sri.41.008.084.22)\the real moses project\main.cpp
+	<iostream>
+	<string.h>
+	<iomanip>
+	<ctime>
+	"customer.h"
+	"room.h"
+	"hotel.h"
+
+1690401857 c:\users\famiyeh\desktop\downloads\famiyeh michael(sri.41.008.084.22)\the real moses project\include\customer.h
+	<string>
+
+1690737756 c:\users\famiyeh\desktop\downloads\famiyeh michael(sri.41.008.084.22)\the real moses project\include\room.h
+
+1690739867 c:\users\famiyeh\desktop\downloads\famiyeh michael(sri.41.008.084.22)\the real moses project\include\hotel.h
+	"customer.h"
+	"room.h"
+
+1690726973 source:c:\users\famiyeh\desktop\downloads\famiyeh michael(sri.41.008.084.22)\the real moses project\src\customer.cpp
+	"customer.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+	<ctime>
+
+1690740143 source:c:\users\famiyeh\desktop\downloads\famiyeh michael(sri.41.008.084.22)\the real moses project\src\hotel.cpp
+	"hotel.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+	<ctime>
+
+1690741191 source:c:\users\famiyeh\desktop\downloads\famiyeh michael(sri.41.008.084.22)\the real moses project\src\room.cpp
+	"room.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+	<ctime>
+
+1690726973 source:c:\users\famiyeh\desktop\the real moses project\src\customer.cpp
+	"customer.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+	<ctime>
+
+1690401857 c:\users\famiyeh\desktop\the real moses project\include\customer.h
+	<string>
+
+1690741456 source:c:\users\famiyeh\desktop\the real moses project\src\hotel.cpp
+	"hotel.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+	<ctime>
+
+1690739867 c:\users\famiyeh\desktop\the real moses project\include\hotel.h
+	"customer.h"
+	"room.h"
+
+1690737756 c:\users\famiyeh\desktop\the real moses project\include\room.h
+
+1690741191 source:c:\users\famiyeh\desktop\the real moses project\src\room.cpp
+	"room.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+	<ctime>
+
+1690819396 source:c:\users\famiyeh\desktop\the real moses project\main.cpp
+	<iostream>
+	<string.h>
+	<iomanip>
+	<ctime>
+	"customer.h"
+	"room.h"
+	"hotel.h"
+
+1748465201 source:c:\users\moses arthur\desktop\the real moses project\main.cpp
+	<iostream>
+	<string.h>
+	<iomanip>
+	<ctime>
+	"customer.h"
+	"room.h"
+	"hotel.h"
+
+1748465202 c:\users\moses arthur\desktop\the real moses project\include\customer.h
+	<string>
+
+1748465202 c:\users\moses arthur\desktop\the real moses project\include\room.h
+
+1748465202 c:\users\moses arthur\desktop\the real moses project\include\hotel.h
+	"customer.h"
+	"room.h"
+
+1748465202 source:c:\users\moses arthur\desktop\the real moses project\src\customer.cpp
+	"customer.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+	<ctime>
+
+1748465202 source:c:\users\moses arthur\desktop\the real moses project\src\hotel.cpp
+	"hotel.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+	<ctime>
+
+1748465202 source:c:\users\moses arthur\desktop\the real moses project\src\room.cpp
+	"room.h"
+	<iostream>
+	<string.h>
+	<iomanip>
+	<ctime>
+
